@@ -12,3 +12,7 @@ python_web_scraping
 
 ## 執行此計畫的影片
 [古騰堡爬蟲中文書2025 05 29](https://youtu.be/HxKnYqnagXU?si=uUlTcLvZvvDqKHdc)
+
+
+## 如何執行
+在terminal中執行 python <.py檔名>
