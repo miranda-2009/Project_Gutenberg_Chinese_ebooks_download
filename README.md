@@ -15,4 +15,4 @@ python_web_scraping
 
 
 ## 如何執行
-在terminal中執行 python <.py檔名>
+在terminal中執行 python <檔名.py>
