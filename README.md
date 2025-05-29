@@ -15,4 +15,6 @@ python_web_scraping
 
 
 ## 如何執行
-在terminal中執行 python <檔名.py> (ex. python project_gutenberg.py)
+在CMD中(命令提示字元)
+或是透過VSC打開.py檔
+在terminal執行 python <檔名.py> (ex. python project_gutenberg.py)
